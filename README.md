@@ -1,4 +1,4 @@
 # sugar-demo
 This is my repository.
 <br>
-Author - Sanjay kushwaha
+Author - Sanjay (smart work)
